@@ -1,0 +1,10 @@
+[project]
+name = "djongo-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "django>=5.2.7",
+    "pymongo>=4.15.3",
+]
